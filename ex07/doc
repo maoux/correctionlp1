@@ -1,0 +1,2 @@
+mount -vt debugfs none /sys/kernel/debug
+#https://www.kernel.org/doc/Documentation/filesystems/debugfs.txt

@@ -1,0 +1,5 @@
+#This is not an executable ..
+# follow this to make it works !
+# I used -> https://www.computerhope.com/unix/depmod.html
+#ln -s .../ex04/main.ko /lib/modules/$(uname -r)/
+#depmod -a

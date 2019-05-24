@@ -1,0 +1,10 @@
+[   27.978460] udevd[184]: starting eudev-3.2.7
+[   28.861475] e1000 0000:00:03.0 enp0s3: renamed from eth0
+[   31.765761] Adding 5115900k swap on /dev/sda4.  Priority:1 extents:1 across:5115900k 
+[   31.939721] EXT4-fs (sda2): re-mounted. Opts: (null)
+[   32.568696] EXT4-fs (sda2): re-mounted. Opts: (null)
+[   32.785718] EXT4-fs (sda3): mounted filesystem with ordered data mode. Opts: (null)
+[   34.846376] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[   34.906249] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+[  155.695545] main: loading out-of-tree module taints kernel.
+[  155.704533] Misc driver fortytwo got minor 57

@@ -1,0 +1,12 @@
+[102220.397665] usb 1-2: new full-speed USB device number 6 using ohci-pci
+[102220.881486] usb 1-2: New USB device found, idVendor=1a2c, idProduct=4094, bcdDevice= 1.10
+[102220.881486] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[102220.881486] usb 1-2: Product: USB Keyboard
+[102220.881486] usb 1-2: Manufacturer: SEMICO
+[102220.903279] input: SEMICO USB Keyboard as /devices/pci0000:00/0000:00:06.0/usb1/1-2/1-2:1.0/0003:1A2C:4094.0008/input/input16
+[102220.958398] hid-generic 0003:1A2C:4094.0008: input,hidraw1: USB HID v1.10 Keyboard [SEMICO USB Keyboard] on usb-0000:00:06.0-2/input0
+[102220.977337] input: SEMICO USB Keyboard Consumer Control as /devices/pci0000:00/0000:00:06.0/usb1/1-2/1-2:1.1/0003:1A2C:4094.0009/input/input17
+[102221.031492] input: SEMICO USB Keyboard System Control as /devices/pci0000:00/0000:00:06.0/usb1/1-2/1-2:1.1/0003:1A2C:4094.0009/input/input18
+[102221.032492] hid-generic 0003:1A2C:4094.0009: input,hidraw2: USB HID v1.10 Device [SEMICO USB Keyboard] on usb-0000:00:06.0-2/input1
+[102221.040461] Hello Keyboard !
+[102221.040461] usbcore: registered new interface driver hello_keyboard

@@ -1,0 +1,28 @@
+From a00f0feeb2853087f80387d9de41863e50917e0d Mon Sep 17 00:00:00 2001
+From: Hugo Eynard <heynard@student.42.fr>
+Date: Tue, 14 May 2019 17:18:30 +0200
+Subject: [PATCH] root: Makefile: extra version change
+
+Added an extra version for 42 little-penguin-1 project
+
+Signed-off-by: Hugo Eynard <heynard@student.42.fr>
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index abe13538a8c0..b63792355feb 100644
+--- a/Makefile
++++ b/Makefile
+@@ -2,7 +2,7 @@
+ VERSION = 5
+ PATCHLEVEL = 1
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc6
++EXTRAVERSION = -rc6-thor_kernel
+ NAME = Shy Crocodile
+ 
+ # *DOCUMENTATION*
+-- 
+2.21.0
+
